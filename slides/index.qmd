@@ -26,25 +26,17 @@ from: markdown+emoji
 ascii: true
 ---
 
-# Summary {#index}
+Bonjour, présentation du groupe, etc.
+Ajouter lien des slides à la page-titre.
 
-<br>
+# I. Cartiflette : qu'est-ce que c'est ?
 
-[I. Part 1](#index_01)
-
-[II. Part 2](#index_02)
-
-
-# I. Part 1 {#index_01}
+Insérer logo
 
 {{< include sections/Part_1.qmd >}}
 
-# II. Part 2 {#index_02}
+# II. Cartiflette : quel futur ?
+
+Insérer logo
 
 {{< include sections/Part_2.qmd >}}
-
-## Thank you for your attention!
-
-<br>
-
-### Questions?

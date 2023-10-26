@@ -1,1 +1,25 @@
-...
+## Démonstration sur Notebook : pourquoi Cartiflette ?
+
+"Tout ça c'est bien gentil, mais vous n'allez pas me croire sur parole, let's dive in!"
+Plusieurs exemples peuvent être présentés, à choisir :
+- 1 basique montrant que Cartiflette s'utilise en très peu de lignes
+    Possiblement carte des elos par département : possibilité de storytelling sur le passage de consommateur à contributeur
+- 1 plus complet et plus ciblé sur nos cas d'usage, par exemple la comparaison du nb de lignes de Thomas (à passer en slide 5 ?)
+- Le site de présentation de Cartiflette de Lino (ultra nécessaire) :
+    https://linogaliana.github.io/cartiflette-website/index.html ou https://observablehq.com/@linogaliana/cartiflette-demo (plutôt le 2è)
+Effet "wouah" du site s'il est présenté après quelque chose de plus élémentaire
+
+## Etat des lieux et apports de la saison 2
+
+Décrire état actuel du projet et progression en un an :
+    Moins artisanal (donc du back office), davantage de tutos et exemples d'utilisation, enrichissement des sources
+
+## Quid de la suite ? Quels sont les besoins ?
+
+To-do list : transformer ça en une API ?
+Demander des contributeurs, surtout du côté de l'IGN, pour par exemple la maintenance des liens.
+
+## Slide de fin
+
+- Lien vers d'autres ressources d'utilisation de Cartiflette : sites de Lino, cours de l'ENSAE, ...
+- "Merci pour votre attention, des questions ?"

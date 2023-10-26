@@ -1,0 +1,55 @@
+0) Slide de garde
+Bonjour, présentation du groupe, logo, etc.
+Ajouter lien des slides à la page-titre.
+
+1) Exemple ludique d'utilisation : carte de la consommation de bières en France ?
+Capter l'attention avec la carte, puis exagérer sur la difficulté en général de faire une carte
+Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfaite débutante en Python
+
+2) Cartiflette, c'est quoi ? Ca s'adresse à qui ?
+Définition rapide de Cartiflette, insister sur l'open source et le package déjà existant + publicité du SSP Cloud
+Décrire les publics-cibles
+
+3) A quels besoins répond le projet ? Quel intérêt pour le secteur public ?
+Présenter les difficultés auxquelles Cartiflette répond dans le monde de la carto :
+    Difficulté de trouver des sources, encodage, ...
+Insister sur des cas d'usage dans l'administration, les désavantages des données INSEE ou IGN
+
+4) Solutions et avantages de Cartiflette
+Balancer les points forts de Cartiflette, les "+" apportés par le projet
+Mentionner l'accroissement de la visibilité des sources
+Mentionner les projets connexes (COGitr, COGugaison), qu'ils ne sont pas redondants mais complémentaires
+Présenter Cartiflette comme une brique qui se cumule avec d'autres.
+
+5) Impacts concrets
+Donner des exemples concrets, par exemple sur la différence des tracés des polygones sur les bassins de vie
+On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources
+
+6) Utilisations pratiques de Cartiflette aujourd'hui
+Mentionner les usages existants : formation, visualisation, etc.
+Insister sur les cas d'usage dans le secteur public.
+
+------ MOITIE DU PITCH ------ (donc à faire en moins de 5min)
+
+7) Démonstration sur Notebook : pourquoi Cartiflette ?
+"Tout ça c'est bien gentil, mais vous n'allez pas me croire sur parole, let's dive in!"
+Plusieurs exemples peuvent être présentés, à choisir :
+- 1 basique montrant que Cartiflette s'utilise en très peu de lignes
+    Possiblement carte des elos par département : possibilité de storytelling sur le passage de consommateur à contributeur
+- 1 plus complet et plus ciblé sur nos cas d'usage, par exemple la comparaison du nb de lignes de Thomas (à passer en slide 5 ?)
+- Le site de présentation de Cartiflette de Lino (ultra nécessaire) :
+    https://linogaliana.github.io/cartiflette-website/index.html ou https://observablehq.com/@linogaliana/cartiflette-demo (plutôt le 2è)
+Effet "wouah" du site s'il est présenté après quelque chose de plus élémentaire
+
+8) Etat des lieux et apports de la saison 2
+Décrire état actuel du projet et progression en un an :
+    Moins artisanal (donc du back office), davantage de tutos et exemples d'utilisation, enrichissement des sources
+
+9) Quid de la suite ? Quels sont les besoins ?
+To-do list : transformer ça en une API ?
+Demander des contributeurs, surtout du côté de l'IGN, pour par exemple la maintenance des liens.
+
+10) Slide de fin
+- Lien vers d'autres ressources d'utilisation de Cartiflette : sites de Lino, cours de l'ENSAE, ...
+- "Merci pour votre attention, des questions ?"
+- Logo

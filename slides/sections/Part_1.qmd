@@ -1,1 +1,32 @@
-...
+## Exemple ludique d'utilisation : carte de la consommation de bières en France ?
+
+Capter l'attention avec la carte, puis exagérer sur la difficulté en général de faire une carte
+Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfaite débutante en Python
+
+## Cartiflette, c'est quoi ? Ca s'adresse à qui ?
+
+Définition rapide de Cartiflette, insister sur l'open source et le package déjà existant + publicité du SSP Cloud
+Décrire les publics-cibles
+
+## A quels besoins répond le projet ? Quel intérêt pour le secteur public ?
+
+Présenter les difficultés auxquelles Cartiflette répond dans le monde de la carto :
+    Difficulté de trouver des sources, encodage, ...
+Insister sur des cas d'usage dans l'administration, les désavantages des données INSEE ou IGN
+
+## Solutions et avantages de Cartiflette
+
+Balancer les points forts de Cartiflette, les "+" apportés par le projet
+Mentionner l'accroissement de la visibilité des sources
+Mentionner les projets connexes (COGitr, COGugaison), qu'ils ne sont pas redondants mais complémentaires
+Présenter Cartiflette comme une brique qui se cumule avec d'autres.
+
+## Impacts concrets
+
+Donner des exemples concrets, par exemple sur la différence des tracés des polygones sur les bassins de vie
+On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources
+
+## Utilisations pratiques de Cartiflette aujourd'hui
+
+Mentionner les usages existants : formation, visualisation, etc.
+Insister sur les cas d'usage dans le secteur public.
