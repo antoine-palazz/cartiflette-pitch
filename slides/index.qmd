@@ -1,0 +1,50 @@
+---
+title: Cartiflette
+subtitle: |
+  **[Un projet 10%]{.orange}**
+author:
+  - name : "[[Lino Galiana](https://www.linkedin.com/in/linogaliana/)]{.orange}"
+  - name : "[[Thomas Grandjean](https://www.linkedin.com/in/tgrandje/)]{.orange}"
+  - name : "[[Antoine Palazzolo](https://www.linkedin.com/in/antoine-palazzolo/)]{.orange}"
+# uncomment for French presentations:
+lang: fr-FR
+date: 11/28/2023
+date-format: long
+slide-number: true
+# for blind readers:
+slide-tone: false
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+# multiplex: true
+format:
+  onyxia-revealjs:
+    output-file: index.html
+controls: true
+css: custom.css
+from: markdown+emoji
+ascii: true
+---
+
+# Summary {#index}
+
+<br>
+
+[I. Part 1](#index_01)
+
+[II. Part 2](#index_02)
+
+
+# I. Part 1 {#index_01}
+
+{{< include sections/Part_1.qmd >}}
+
+# II. Part 2 {#index_02}
+
+{{< include sections/Part_2.qmd >}}
+
+## Thank you for your attention!
+
+<br>
+
+### Questions?
