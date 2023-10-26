@@ -7,7 +7,11 @@ on:
 
 jobs:
   publish:
+
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -17,6 +21,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: slides/index.qmd
+          path: slides/
         env:
           GITHUB_TOKEN: ${{ secrets.token_cartiflette_pitch }}
