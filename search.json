@@ -1,45 +1,45 @@
 [
   {
-    "objectID": "slides/index.html#exemple-ludique-dutilisation-carte-de-la-consommation-de-bières-en-france",
-    "href": "slides/index.html#exemple-ludique-dutilisation-carte-de-la-consommation-de-bières-en-france",
+    "objectID": "slides/index.html#un-exemple-introductif-débuts-avec-cartiflette",
+    "href": "slides/index.html#un-exemple-introductif-débuts-avec-cartiflette",
     "title": "Cartiflette",
-    "section": "Exemple ludique d’utilisation : carte de la consommation de bières en France ?",
-    "text": "Exemple ludique d’utilisation : carte de la consommation de bières en France ?\nCapter l’attention avec la carte, puis exagérer sur la difficulté en général de faire une carte Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfaite débutante en Python"
+    "section": "Un exemple introductif : débuts avec Cartiflette",
+    "text": "Un exemple introductif : débuts avec Cartiflette"
   },
   {
-    "objectID": "slides/index.html#cartiflette-cest-quoi-ca-sadresse-à-qui",
-    "href": "slides/index.html#cartiflette-cest-quoi-ca-sadresse-à-qui",
+    "objectID": "slides/index.html#cartiflette-quest-ce-que-cest",
+    "href": "slides/index.html#cartiflette-quest-ce-que-cest",
     "title": "Cartiflette",
-    "section": "Cartiflette, c’est quoi ? Ca s’adresse à qui ?",
-    "text": "Cartiflette, c’est quoi ? Ca s’adresse à qui ?\nDéfinition rapide de Cartiflette, insister sur l’open source et le package déjà existant + publicité du SSP Cloud Décrire les publics-cibles"
+    "section": "Cartiflette : qu’est-ce que c’est ?",
+    "text": "Cartiflette : qu’est-ce que c’est ?\n\n\nUn projet pour …\n\nFaciliter l’association de sources géographiques …\nEn proposant des récupérations facilitées de coutours de cartes officiels\n\n\n\n\nUn package Python (maintenant aussi disponible en R), open source, développé à l’aide du SSP Cloud\n\nAccessible à tous, adapté aux besoins du data scientist ou du géomaticien\n\n\n\n\n\nUn objectif clair : simplifier le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques"
   },
   {
-    "objectID": "slides/index.html#a-quels-besoins-répond-le-projet-quel-intérêt-pour-le-secteur-public",
-    "href": "slides/index.html#a-quels-besoins-répond-le-projet-quel-intérêt-pour-le-secteur-public",
+    "objectID": "slides/index.html#cartiflette-quel-besoin",
+    "href": "slides/index.html#cartiflette-quel-besoin",
     "title": "Cartiflette",
-    "section": "A quels besoins répond le projet ? Quel intérêt pour le secteur public ?",
-    "text": "A quels besoins répond le projet ? Quel intérêt pour le secteur public ?\nPrésenter les difficultés auxquelles Cartiflette répond dans le monde de la carto : Difficulté de trouver des sources, encodage, … Insister sur des cas d’usage dans l’administration, les désavantages des données INSEE ou IGN"
+    "section": "Cartiflette : quel besoin ?",
+    "text": "Cartiflette : quel besoin ?\nDifficultés classiques et chronophages en cartographie :\n\n\nRecherche laborieuse de sources ou de niveaux géographiques spécifiques\n\n\n\n\nEncodages non cohérents des fichiers, par exemple sur le site de l’Insee\n\n\n\n\nImports au cas par cas\n\n\n\n\nCartiflette : un unique point d’entrée, clair et normalisé"
   },
   {
-    "objectID": "slides/index.html#solutions-et-avantages-de-cartiflette",
-    "href": "slides/index.html#solutions-et-avantages-de-cartiflette",
+    "objectID": "slides/index.html#cartiflette-quels-avantages",
+    "href": "slides/index.html#cartiflette-quels-avantages",
     "title": "Cartiflette",
-    "section": "Solutions et avantages de Cartiflette",
-    "text": "Solutions et avantages de Cartiflette\nBalancer les points forts de Cartiflette, les “+” apportés par le projet Mentionner l’accroissement de la visibilité des sources Mentionner les projets connexes (COGitr, COGugaison), qu’ils ne sont pas redondants mais complémentaires Présenter Cartiflette comme une brique qui se cumule avec d’autres."
+    "section": "Cartiflette : quels avantages ?",
+    "text": "Cartiflette : quels avantages ?\n\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr"
   },
   {
-    "objectID": "slides/index.html#impacts-concrets",
-    "href": "slides/index.html#impacts-concrets",
+    "objectID": "slides/index.html#cartiflette-quels-impacts",
+    "href": "slides/index.html#cartiflette-quels-impacts",
     "title": "Cartiflette",
-    "section": "Impacts concrets",
-    "text": "Impacts concrets\nDonner des exemples concrets, par exemple sur la différence des tracés des polygones sur les bassins de vie On veut montrer que Cartiflette est plus qu’un simple outil de redirection des sources"
+    "section": "Cartiflette : quels impacts ?",
+    "text": "Cartiflette : quels impacts ?\n\nA résultat égal, des codes d’import passant de 111 lignes de code à … 4\n\n\n\nDes contours plus précis, pouvant influer sur les résultats numériques obtenus\n\nExemple des contours des bassins de vie dans la commune de Merckeghem\nFond de plan Insee VS IGN (AdminExpress) en surimpression"
   },
   {
-    "objectID": "slides/index.html#utilisations-pratiques-de-cartiflette-aujourdhui",
-    "href": "slides/index.html#utilisations-pratiques-de-cartiflette-aujourdhui",
+    "objectID": "slides/index.html#cartiflette-quels-usages-aujourdhui",
+    "href": "slides/index.html#cartiflette-quels-usages-aujourdhui",
     "title": "Cartiflette",
-    "section": "Utilisations pratiques de Cartiflette aujourd’hui",
-    "text": "Utilisations pratiques de Cartiflette aujourd’hui\nMentionner les usages existants : formation, visualisation, etc. Insister sur les cas d’usage dans le secteur public."
+    "section": "Cartiflette : quels usages aujourd’hui ?",
+    "text": "Cartiflette : quels usages aujourd’hui ?\n\nA des fins de formation\n\nExemple du cours “Python pour la data science” pour les 2A de l’ENSAE\n\n\n\n\nA des fins de data viz sur des projets ponctuels, par exemple sur Observable\n\n\n\n\nBesoin commun de plusieurs administrations\n\nQu’elles soient régionales, nationales, etc."
   },
   {
     "objectID": "slides/index.html#démonstration-sur-notebook-pourquoi-cartiflette",
@@ -67,6 +67,6 @@
     "href": "slides/index.html#slide-de-fin",
     "title": "Cartiflette",
     "section": "Slide de fin",
-    "text": "Slide de fin\n\nLien vers d’autres ressources d’utilisation de Cartiflette : sites de Lino, cours de l’ENSAE, …\n“Merci pour votre attention, des questions ?”"
+    "text": "Slide de fin\n\nLien vers d’autres ressources d’utilisation de Cartiflette : sites de Lino, cours de l’ENSAE, …\n“Merci pour votre attention, des questions ?”\n\n\n\nhttps://antoine-palazz.github.io/cartiflette-pitch/"
   }
 ]
