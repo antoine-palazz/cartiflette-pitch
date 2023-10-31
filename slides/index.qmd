@@ -37,6 +37,6 @@ ascii: true
 
 # II. Cartiflette : quel futur ?
 
-Insérer logo
+![](img/cartiflette.png){fig-align="center"}
 
 {{< include sections/Part_2.qmd >}}

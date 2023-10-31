@@ -1,4 +1,4 @@
-## Un exemple introductif : débuts avec Cartiflette
+## Cartiflette : par où commencer ?
 
 ![](img/carte_cidres.png)
 
@@ -24,7 +24,7 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 
 - Un objectif clair : simplifier le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques
 
-## Cartiflette : quel besoin ?
+## Cartiflette : quels besoins adressés ?
 
 Difficultés classiques et chronophages en cartographie :
 
@@ -47,8 +47,6 @@ Difficultés classiques et chronophages en cartographie :
 Cartiflette : un unique point d’entrée, clair et normalisé
 
 ## Cartiflette : quels avantages ?
-
-<br>
 
 - Pouvoir rapprocher des sources déjà existantes et accroître leur visibilité
 
