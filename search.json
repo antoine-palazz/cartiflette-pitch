@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "slides/index.html#un-exemple-introductif-débuts-avec-cartiflette",
-    "href": "slides/index.html#un-exemple-introductif-débuts-avec-cartiflette",
+    "objectID": "slides/index.html#cartiflette-par-où-commencer",
+    "href": "slides/index.html#cartiflette-par-où-commencer",
     "title": "Cartiflette",
-    "section": "Un exemple introductif : débuts avec Cartiflette",
-    "text": "Un exemple introductif : débuts avec Cartiflette"
+    "section": "Cartiflette : par où commencer ?",
+    "text": "Cartiflette : par où commencer ?"
   },
   {
     "objectID": "slides/index.html#cartiflette-quest-ce-que-cest",
@@ -14,18 +14,18 @@
     "text": "Cartiflette : qu’est-ce que c’est ?\n\n\nUn projet pour …\n\nFaciliter l’association de sources géographiques …\nEn proposant des récupérations facilitées de coutours de cartes officiels\n\n\n\n\nUn package Python (maintenant aussi disponible en R), open source, développé à l’aide du SSP Cloud\n\nAccessible à tous, adapté aux besoins du data scientist ou du géomaticien\n\n\n\n\n\nUn objectif clair : simplifier le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques"
   },
   {
-    "objectID": "slides/index.html#cartiflette-quel-besoin",
-    "href": "slides/index.html#cartiflette-quel-besoin",
+    "objectID": "slides/index.html#cartiflette-quels-besoins-adressés",
+    "href": "slides/index.html#cartiflette-quels-besoins-adressés",
     "title": "Cartiflette",
-    "section": "Cartiflette : quel besoin ?",
-    "text": "Cartiflette : quel besoin ?\nDifficultés classiques et chronophages en cartographie :\n\n\nRecherche laborieuse de sources ou de niveaux géographiques spécifiques\n\n\n\n\nEncodages non cohérents des fichiers, par exemple sur le site de l’Insee\n\n\n\n\nImports au cas par cas\n\n\n\n\nCartiflette : un unique point d’entrée, clair et normalisé"
+    "section": "Cartiflette : quels besoins adressés ?",
+    "text": "Cartiflette : quels besoins adressés ?\nDifficultés classiques et chronophages en cartographie :\n\n\nRecherche laborieuse de sources ou de niveaux géographiques spécifiques\n\n\n\n\nEncodages non cohérents des fichiers, par exemple sur le site de l’Insee\n\n\n\n\nImports au cas par cas\n\n\n\n\nCartiflette : un unique point d’entrée, clair et normalisé"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-avantages",
     "href": "slides/index.html#cartiflette-quels-avantages",
     "title": "Cartiflette",
     "section": "Cartiflette : quels avantages ?",
-    "text": "Cartiflette : quels avantages ?\n\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr"
+    "text": "Cartiflette : quels avantages ?\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-impacts",
@@ -42,31 +42,31 @@
     "text": "Cartiflette : quels usages aujourd’hui ?\n\nA des fins de formation\n\nExemple du cours “Python pour la data science” pour les 2A de l’ENSAE\n\n\n\n\nA des fins de data viz sur des projets ponctuels, par exemple sur Observable\n\n\n\n\nBesoin commun de plusieurs administrations\n\nQu’elles soient régionales, nationales, etc."
   },
   {
-    "objectID": "slides/index.html#démonstration-sur-notebook-pourquoi-cartiflette",
-    "href": "slides/index.html#démonstration-sur-notebook-pourquoi-cartiflette",
+    "objectID": "slides/index.html#cartiflette-quid-dune-démonstration",
+    "href": "slides/index.html#cartiflette-quid-dune-démonstration",
     "title": "Cartiflette",
-    "section": "Démonstration sur Notebook : pourquoi Cartiflette ?",
-    "text": "Démonstration sur Notebook : pourquoi Cartiflette ?\n“Tout ça c’est bien gentil, mais vous n’allez pas me croire sur parole, let’s dive in!” Plusieurs exemples peuvent être présentés, à choisir : - 1 basique montrant que Cartiflette s’utilise en très peu de lignes Possiblement carte des elos par département : possibilité de storytelling sur le passage de consommateur à contributeur - 1 plus complet et plus ciblé sur nos cas d’usage, par exemple la comparaison du nb de lignes de Thomas (à passer en slide 5 ?) - Le site de présentation de Cartiflette de Lino (ultra nécessaire) : https://linogaliana.github.io/cartiflette-website/index.html ou https://observablehq.com/@linogaliana/cartiflette-demo (plutôt le 2è) Effet “wouah” du site s’il est présenté après quelque chose de plus élémentaire"
+    "section": "Cartiflette : quid d’une démonstration ?",
+    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\nDeux exemples d’utilisation :\n\nExemple A basique : [carte des elos par département + storytelling personnel] ou bien [comparaison du nb de lignes de code sur les imports AdminExpress de Thomas] ?\nExemple B avancé : dataviz sur Observable"
   },
   {
-    "objectID": "slides/index.html#etat-des-lieux-et-apports-de-la-saison-2",
-    "href": "slides/index.html#etat-des-lieux-et-apports-de-la-saison-2",
+    "objectID": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
+    "href": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
     "title": "Cartiflette",
-    "section": "Etat des lieux et apports de la saison 2",
-    "text": "Etat des lieux et apports de la saison 2\nDécrire état actuel du projet et progression en un an : Moins artisanal (donc du back office), davantage de tutos et exemples d’utilisation, enrichissement des sources"
+    "section": "Cartiflette : quelles avancées pendant la saison 2 ?",
+    "text": "Cartiflette : quelles avancées pendant la saison 2 ?\n\n\nUne saison 1 dédiée à la création et la mise à disponibilité de l’outil\n\n\n\nPlusieurs objectifs pendant la saison 2 :\n\nPasser d’un code un peu plus artisanal à un code plus robuste\nEnrichissement des sources\nDavantage de communication, de tutos et démonstrations"
   },
   {
-    "objectID": "slides/index.html#quid-de-la-suite-quels-sont-les-besoins",
-    "href": "slides/index.html#quid-de-la-suite-quels-sont-les-besoins",
+    "objectID": "slides/index.html#cartiflette-quelle-suite-et-quels-besoins",
+    "href": "slides/index.html#cartiflette-quelle-suite-et-quels-besoins",
     "title": "Cartiflette",
-    "section": "Quid de la suite ? Quels sont les besoins ?",
-    "text": "Quid de la suite ? Quels sont les besoins ?\nTo-do list : transformer ça en une API ? Demander des contributeurs, surtout du côté de l’IGN, pour par exemple la maintenance des liens."
+    "section": "Cartiflette : quelle suite et quels besoins ?",
+    "text": "Cartiflette : quelle suite et quels besoins ?\n\n\nObjectif de passage à une API\n\n\n\nBesoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données\n\n\n\n\nBesoin de communication et diffusion sur le projet"
   },
   {
-    "objectID": "slides/index.html#slide-de-fin",
-    "href": "slides/index.html#slide-de-fin",
+    "objectID": "slides/index.html#cartiflette-fin",
+    "href": "slides/index.html#cartiflette-fin",
     "title": "Cartiflette",
-    "section": "Slide de fin",
-    "text": "Slide de fin\n\nLien vers d’autres ressources d’utilisation de Cartiflette : sites de Lino, cours de l’ENSAE, …\n“Merci pour votre attention, des questions ?”\n\n\n\nhttps://antoine-palazz.github.io/cartiflette-pitch/"
+    "section": "Cartiflette : fin ?",
+    "text": "Cartiflette : fin ?\n\nMerci pour votre attention !\n\nRessources complémentaires\n\nNotebook Observable\nDocumentation du package\nGithub du projet\n\n\n\nhttps://antoine-palazz.github.io/cartiflette-pitch/"
   }
 ]
