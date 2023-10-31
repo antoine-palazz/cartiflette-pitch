@@ -2,8 +2,8 @@
 Bonjour, présentation du groupe, logo, etc.
 Ajouter lien des slides à la page-titre.
 
-1) Exemple ludique d'utilisation : carte de la consommation de bières en France ?
-Capter l'attention avec la carte, puis exagérer sur la difficulté en général de faire une carte
+1) Exemple ludique d'utilisation : carte de la consommation de cidres en France
+Capter l'attention avec la carte, puis insister sur la difficulté en général de faire une carte
 Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfaite débutante en Python
 
 2) Cartiflette, c'est quoi ? Ca s'adresse à qui ?

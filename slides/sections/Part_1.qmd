@@ -1,32 +1,97 @@
-## Exemple ludique d'utilisation : carte de la consommation de bières en France ?
+## Un exemple introductif : débuts avec Cartiflette
 
-Capter l'attention avec la carte, puis exagérer sur la difficulté en général de faire une carte
+![](img/carte_cidres.png)
+
+<!--
+Capter l'attention avec la carte, puis insister sur la difficulté en général de faire une carte
 Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfaite débutante en Python
+-->
 
-## Cartiflette, c'est quoi ? Ca s'adresse à qui ?
+## Cartiflette : qu'est-ce que c'est ? {.smaller}
 
-Définition rapide de Cartiflette, insister sur l'open source et le package déjà existant + publicité du SSP Cloud
-Décrire les publics-cibles
+<br>
 
-## A quels besoins répond le projet ? Quel intérêt pour le secteur public ?
+- Un projet pour ...
+    + Faciliter l’association de sources géographiques ...
+    + En proposant des récupérations facilitées de coutours de cartes officiels
 
-Présenter les difficultés auxquelles Cartiflette répond dans le monde de la carto :
-    Difficulté de trouver des sources, encodage, ...
-Insister sur des cas d'usage dans l'administration, les désavantages des données INSEE ou IGN
+. . .
 
-## Solutions et avantages de Cartiflette
+- Un package Python (maintenant aussi disponible en R), open source, développé à l'aide du SSP Cloud
+    + Accessible à tous, adapté aux besoins du data scientist ou du géomaticien
 
-Balancer les points forts de Cartiflette, les "+" apportés par le projet
-Mentionner l'accroissement de la visibilité des sources
-Mentionner les projets connexes (COGitr, COGugaison), qu'ils ne sont pas redondants mais complémentaires
-Présenter Cartiflette comme une brique qui se cumule avec d'autres.
+. . .
 
-## Impacts concrets
+- Un objectif clair : simplifier le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques
 
-Donner des exemples concrets, par exemple sur la différence des tracés des polygones sur les bassins de vie
-On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources
+## Cartiflette : quel besoin ?
 
-## Utilisations pratiques de Cartiflette aujourd'hui
+Difficultés classiques et chronophages en cartographie :
 
-Mentionner les usages existants : formation, visualisation, etc.
-Insister sur les cas d'usage dans le secteur public.
+. . .
+
+- Recherche laborieuse de sources ou de niveaux géographiques spécifiques
+
+. . .
+
+- Encodages non cohérents des fichiers, par exemple sur le site de l'Insee
+
+. . .
+
+- Imports au cas par cas
+
+. . .
+
+<br>
+
+Cartiflette : un unique point d’entrée, clair et normalisé
+
+## Cartiflette : quels avantages ?
+
+<br>
+
+- Pouvoir rapprocher des sources déjà existantes et accroître leur visibilité
+
+. . .
+
+- Travailler aisément sur des niveaux géographiques donnés dans une zone d'intérêt spécifique
+
+. . .
+
+- Une brique qui complémente et s'insère dans un écosystème de packages déjà existants
+    + Exemple du package R COGugaison, pour la manipulation et l'agrégation de données communales
+    + Exemple du package Python Pynsee, pour la récupération de données issues de insee.fr
+
+<!--
+Mentionner l'allègement de la partie géographique pour plein d'autres outils
+-->
+
+## Cartiflette : quels impacts ? {.smaller}
+
+- A résultat égal, des codes d'import passant de 111 lignes de code à ... 4
+
+. . .
+
+- Des contours plus précis, pouvant influer sur les résultats numériques obtenus
+    + Exemple des contours des bassins de vie dans la commune de Merckeghem
+    + Fond de plan Insee VS IGN (AdminExpress) en surimpression
+
+![](img/contours_differents.png){height="400" fig-align="center"}
+
+<!--
+On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources.
+-->
+
+## Cartiflette : quels usages aujourd'hui ?
+
+- A des fins de formation
+    + Exemple du cours "Python pour la data science" pour les 2A de l'ENSAE
+
+. . .
+
+- A des fins de data viz sur des projets ponctuels, par exemple sur Observable
+
+. . .
+
+- Besoin commun de plusieurs administrations
+    + Qu'elles soient régionales, nationales, etc.

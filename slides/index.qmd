@@ -10,6 +10,7 @@ author:
 lang: fr-FR
 date: 11/28/2023
 date-format: long
+footer: https://antoine-palazz.github.io/cartiflette-pitch/
 slide-number: true
 # for blind readers:
 slide-tone: false
@@ -24,14 +25,13 @@ controls: true
 css: custom.css
 from: markdown+emoji
 ascii: true
+
+# Bonjour, présentation du groupe, etc.
 ---
 
-Bonjour, présentation du groupe, etc.
-Ajouter lien des slides à la page-titre.
+# I. Cartiflette : de quoi s'agit-il ?
 
-# I. Cartiflette : qu'est-ce que c'est ?
-
-Insérer logo
+![](img/cartiflette.png){fig-align="center"}
 
 {{< include sections/Part_1.qmd >}}
 
