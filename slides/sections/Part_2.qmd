@@ -15,11 +15,11 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 
 <br>
 
-- Une saison 1 dédiée à la création et la mise à disponibilité de l'outil
+- Une **saison 1** dédiée à la création et la mise à disponibilité de l'outil
 
 . . .
 
-- Plusieurs objectifs pendant la saison 2 :
+- Plusieurs objectifs pendant la **saison 2** :
     + Passer d'un code un peu plus artisanal à un code plus robuste
     + Enrichissement des sources
     + Davantage de communication, de tutos et démonstrations
@@ -28,11 +28,11 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 
 <br>
 
-- Objectif de passage à une API
+- Objectif de passage à une **API**
 
 . . .
 
-- Besoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données
+- **Besoin de contributeurs**, notamment côté IGN, par exemple pour la maintenance des liens vers les données
 
 . . .
 

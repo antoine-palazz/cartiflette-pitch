@@ -12,39 +12,39 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 <br>
 
 - Un projet pour ...
-    + Faciliter l’association de sources géographiques ...
-    + En proposant des récupérations facilitées de coutours de cartes officiels
+    + ... faciliter l’**association de sources géographiques** ...
+    + ... en proposant des **récupérations facilitées de coutours** de cartes officiels
 
 . . .
 
-- Un package Python (maintenant aussi disponible en R), open source, développé à l'aide du SSP Cloud
+- Un [package Python](https://github.com/InseeFrLab/cartiflette) (maintenant aussi disponible [en R](https://github.com/linogaliana/cartiflette-r)), open source, développé à l'aide du [SSP Cloud](https://datalab.sspcloud.fr)
     + Accessible à tous, adapté aux besoins du data scientist ou du géomaticien
 
 . . .
 
 - Un objectif clair : simplifier le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques
 
-## Cartiflette : quels besoins adressés ?
+## Cartiflette : quel besoin adressé ?
 
 Difficultés classiques et chronophages en cartographie :
 
 . . .
 
-- Recherche laborieuse de sources ou de niveaux géographiques spécifiques
+- **Recherche laborieuse de sources** ou de niveaux géographiques spécifiques
 
 . . .
 
-- Encodages non cohérents des fichiers, par exemple sur le site de l'Insee
+- **Encodages non cohérents** des fichiers, par exemple sur le site de l'Insee
 
 . . .
 
-- Imports au cas par cas
+- **Imports au cas par cas**
 
 . . .
 
 <br>
 
-Cartiflette : un unique point d’entrée, clair et normalisé
+Cartiflette : un **unique point d’entrée**, clair et normalisé
 
 ## Cartiflette : quels avantages ?
 
@@ -57,8 +57,8 @@ Cartiflette : un unique point d’entrée, clair et normalisé
 . . .
 
 - Une brique qui complémente et s'insère dans un écosystème de packages déjà existants
-    + Exemple du package R COGugaison, pour la manipulation et l'agrégation de données communales
-    + Exemple du package Python Pynsee, pour la récupération de données issues de insee.fr
+    + Exemple du package R [COGugaison](https://github.com/antuki/COGugaison), pour la manipulation et l'agrégation de données communales
+    + Exemple du package Python [Pynsee](https://github.com/InseeFrLab/pynsee), pour la récupération de données issues de [insee.fr](https://www.insee.fr/)
 
 <!--
 Mentionner l'allègement de la partie géographique pour plein d'autres outils
@@ -72,7 +72,7 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 
 - Des contours plus précis, pouvant influer sur les résultats numériques obtenus
     + Exemple des contours des bassins de vie dans la commune de Merckeghem
-    + Fond de plan Insee VS IGN (AdminExpress) en surimpression
+    + Fond de plan [Insee](https://www.insee.fr/fr/information/6676988) VS [IGN](https://geoservices.ign.fr/adminexpress) (AdminExpress) en surimpression
 
 ![](img/contours_differents.png){height="400" fig-align="center"}
 
@@ -82,12 +82,12 @@ On veut montrer que Cartiflette est plus qu'un simple outil de redirection des s
 
 ## Cartiflette : quels usages aujourd'hui ?
 
-- A des fins de formation
-    + Exemple du cours "Python pour la data science" pour les 2A de l'ENSAE
+- A des fins de **formation**
+    + Exemple du cours [Python pour la data science](https://pythonds.linogaliana.fr/content/manipulation/03_geopandas_tutorial.html) pour les 2A de l'ENSAE
 
 . . .
 
-- A des fins de data viz sur des projets ponctuels, par exemple sur Observable
+- A des fins de **data viz** sur des projets ponctuels, par exemple sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
 
 . . .
 
