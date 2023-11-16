@@ -30,7 +30,7 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
     + Enrichissement des sources
     + Davantage de communication, de tutos et démonstrations
 
-## Cartiflette : quelle suite et quels besoins ?
+## Cartiflette : quelle suite et quels besoins ? {.smaller}
 
 <br>
 
