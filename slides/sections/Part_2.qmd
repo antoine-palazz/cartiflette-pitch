@@ -7,8 +7,14 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 
 <br>
 
+<!--
 - Deux exemples d'utilisation :
     + Exemple A basique : [carte des elos par département + storytelling personnel] ou bien [comparaison du nb de lignes de code sur les imports AdminExpress de Thomas] ?
+    + Exemple B avancé : dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
+-->
+
+- Deux exemples d'utilisation :
+    + Exemple A basique : à compléter
     + Exemple B avancé : dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
 
 ## Cartiflette : quelles avancées pendant la saison 2 ?

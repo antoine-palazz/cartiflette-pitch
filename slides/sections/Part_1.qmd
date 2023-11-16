@@ -66,7 +66,7 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 
 ## Cartiflette : quels impacts ? {.smaller}
 
-- A résultat égal, des codes d'import passant de 111 lignes de code à ... 4
+- A résultat égal, des codes d'import pouvant passer de 111 lignes de code à ... 4
 
 . . .
 
@@ -78,6 +78,7 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 
 <!--
 On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources.
+Aussi mentionner le poids plus lourd du fichier obtenu (plus précis)
 -->
 
 ## Cartiflette : quels usages aujourd'hui ?
