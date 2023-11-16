@@ -56,9 +56,9 @@ Cartiflette : un **unique point d’entrée**, clair et normalisé
 
 . . .
 
-- Une brique qui complémente et s'insère dans un écosystème de packages déjà existants
+- Une brique qui complémente et s'insère dans un écosystème de packages déjà existants :
     + Exemple du package R [COGugaison](https://github.com/antuki/COGugaison), pour la manipulation et l'agrégation de données communales
-    + Exemple du package Python [Pynsee](https://github.com/InseeFrLab/pynsee), pour la récupération de données issues de [insee.fr](https://www.insee.fr/)
+    + Exemple du package Python [Pynsee](https://github.com/InseeFrLab/pynsee), pour la récupération de données issues de [insee.fr](https://www.insee.fr/) et de l'[IGN](https://www.ign.fr/)
 
 <!--
 Mentionner l'allègement de la partie géographique pour plein d'autres outils
