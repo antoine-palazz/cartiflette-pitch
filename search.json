@@ -46,7 +46,7 @@
     "href": "slides/index.html#cartiflette-quid-dune-démonstration",
     "title": "Cartiflette",
     "section": "Cartiflette : quid d’une démonstration ?",
-    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\n\nDeux exemples d’utilisation :\n\nExemple A basique : à compléter\nExemple B avancé : dataviz sur Observable"
+    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\n\nDeux exemples d’utilisation :\n\nComparaison de code avec & sans Cartiflette sur les bassins de vie\nTuto de dataviz sur Observable"
   },
   {
     "objectID": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
@@ -60,7 +60,7 @@
     "href": "slides/index.html#cartiflette-quelle-suite-et-quels-besoins",
     "title": "Cartiflette",
     "section": "Cartiflette : quelle suite et quels besoins ?",
-    "text": "Cartiflette : quelle suite et quels besoins ?\n\n\nObjectif de passage à une API\n\n\n\nBesoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données\n\n\n\n\nBesoin de communication et diffusion sur le projet"
+    "text": "Cartiflette : quelle suite et quels besoins ?\n\n\nObjectif de passage à une API\n\nCompromis à préciser entre précision des contours et débit de téléchargement\n\n\n\n\nEnrichissiment avec de nouvelles sources\n\nEx : Base Nationale sur l’Intercommunalité, bases Insee (Aire d’Attraction des Villes, Zones d’Emploi)\n\n\n\n\n\nBesoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données\n\n\n\n\nBesoin de communication et diffusion sur le projet"
   },
   {
     "objectID": "slides/index.html#cartiflette-fin",
