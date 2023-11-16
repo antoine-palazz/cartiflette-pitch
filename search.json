@@ -32,7 +32,7 @@
     "href": "slides/index.html#cartiflette-quels-impacts",
     "title": "Cartiflette",
     "section": "Cartiflette : quels impacts ?",
-    "text": "Cartiflette : quels impacts ?\n\nA résultat égal, des codes d’import passant de 111 lignes de code à … 4\n\n\n\nDes contours plus précis, pouvant influer sur les résultats numériques obtenus\n\nExemple des contours des bassins de vie dans la commune de Merckeghem\nFond de plan Insee VS IGN (AdminExpress) en surimpression"
+    "text": "Cartiflette : quels impacts ?\n\nA résultat égal, des codes d’import pouvant passer de 111 lignes de code à … 4\n\n\n\nDes contours plus précis, pouvant influer sur les résultats numériques obtenus\n\nExemple des contours des bassins de vie dans la commune de Merckeghem\nFond de plan Insee VS IGN (AdminExpress) en surimpression"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-usages-aujourdhui",
@@ -46,7 +46,7 @@
     "href": "slides/index.html#cartiflette-quid-dune-démonstration",
     "title": "Cartiflette",
     "section": "Cartiflette : quid d’une démonstration ?",
-    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\nDeux exemples d’utilisation :\n\nExemple A basique : [carte des elos par département + storytelling personnel] ou bien [comparaison du nb de lignes de code sur les imports AdminExpress de Thomas] ?\nExemple B avancé : dataviz sur Observable"
+    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\n\nDeux exemples d’utilisation :\n\nExemple A basique : à compléter\nExemple B avancé : dataviz sur Observable"
   },
   {
     "objectID": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
