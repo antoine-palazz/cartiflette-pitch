@@ -71,12 +71,13 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 . . .
 
 - Des contours plus précis, pouvant influer sur les résultats numériques obtenus
-    + Exemple des contours des bassins de vie dans la commune de Merckeghem
+    + Exemple des contours des bassins de vie en Guyane
     + Fond de plan [Insee](https://www.insee.fr/fr/information/6676988) VS [IGN](https://geoservices.ign.fr/adminexpress) (AdminExpress) en surimpression
 
-![](img/guyane.png){fig-align="left"}
+![](img/guyane.png){height="400" fig-align="left"}
 
 <!--
+Exemple des contours des bassins de vie dans la commune de Merckeghem
 ![](img/bassins_vie.png){fig-align="right"}
 On veut montrer que Cartiflette est plus qu'un simple outil de redirection des sources.
 Aussi mentionner le poids plus lourd du fichier obtenu (plus précis)
