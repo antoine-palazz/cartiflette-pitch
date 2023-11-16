@@ -14,8 +14,8 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 -->
 
 - Deux exemples d'utilisation :
-    + Exemple A basique : à compléter
-    + Exemple B avancé : dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
+    + [Comparaison de code](https://github.com/InseeFrLab/cartiflette/blob/demoday/misc/demoday.py) avec & sans Cartiflette sur les bassins de vie
+    + Tuto de dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
 
 ## Cartiflette : quelles avancées pendant la saison 2 ?
 
@@ -35,6 +35,12 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 <br>
 
 - Objectif de passage à une **API**
+    + Compromis à préciser entre précision des contours et débit de téléchargement
+
+. . .
+
+- Enrichissiment avec de nouvelles sources
+    + Ex : [Base Nationale sur l'Intercommunalité](https://www.banatic.interieur.gouv.fr/), bases Insee ([Aire d'Attraction des Villes](https://www.insee.fr/fr/information/4803954), [Zones d'Emploi](https://www.insee.fr/fr/information/4652957))
 
 . . .
 
