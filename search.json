@@ -25,7 +25,7 @@
     "href": "slides/index.html#cartiflette-quels-avantages",
     "title": "Cartiflette",
     "section": "Cartiflette : quels avantages ?",
-    "text": "Cartiflette : quels avantages ?\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr"
+    "text": "Cartiflette : quels avantages ?\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants :\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr et de l’IGN"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-impacts",
