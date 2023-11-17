@@ -68,7 +68,14 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 
 ## Cartiflette : à quoi ça ressemble ?
 
+<br>
+
 ![](img/schema_mermaid.svg){height="500" fig-align="center"}
+
+<!--
+Icônes à rajouter
+En annexe ou à ne pas détailler
+-->
 
 ## Cartiflette : quels impacts ? {.smaller}
 
