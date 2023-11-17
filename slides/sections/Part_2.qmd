@@ -64,3 +64,5 @@ Préciser qu'on peut nous contacter, nos LinkedIn sont slide 1
 - [Documentation](https://linogaliana.github.io/cartiflette-website/) du package
 
 - [Github](https://github.com/InseeFrLab/cartiflette/) du projet
+
+- Back-office : le [fichier yaml](https://github.com/InseeFrLab/cartiflette/blob/main/cartiflette/utils/sources.yaml) des sources incluses
