@@ -1,4 +1,4 @@
-## Cartiflette : quid d'une démonstration ?
+## Cartiflette : quid d'une démo ?
 
 <!--
 Tout ça c'est bien gentil, mais vous n'allez pas me croire sur parole !
@@ -11,7 +11,7 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
     + [Comparaison de code](https://github.com/InseeFrLab/cartiflette/blob/demoday/misc/demoday.py) avec & sans Cartiflette sur les bassins de vie
     + Tuto de dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
 
-## Cartiflette : quelles avancées pendant la saison 2 ?
+## Cartiflette : quelles avancées ?
 
 <br>
 
@@ -24,12 +24,13 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
     + Enrichissement des sources
     + Davantage de communication, de tutos et démonstrations
 
-## Cartiflette : quelle suite et quels besoins ? {.smaller}
+## Cartiflette : quelle suite ? {.smaller}
 
 <br>
 
 - Objectif de passage à une **API**
     + Compromis à préciser entre précision des contours et débit de téléchargement
+    + Un projet en *best effort*
 
 . . .
 

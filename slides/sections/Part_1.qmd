@@ -26,7 +26,7 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 
 ## Cartiflette : quel besoin adressé ?
 
-Difficultés classiques et chronophages en cartographie :
+<h6>Difficultés classiques et chronophages en cartographie :</h6>
 
 . . .
 
@@ -42,9 +42,11 @@ Difficultés classiques et chronophages en cartographie :
 
 . . .
 
-<br>
+::: {.callout-tip}
+## Vers une recherche de solution
 
-Cartiflette : un **unique point d’entrée**, clair et normalisé
+**[Cartiflette](https://www.10pourcent.etalab.gouv.fr/projets/cartiflette/)** : un **unique point d’entrée**, clair et normalisé
+:::
 
 ## Cartiflette : quels avantages ?
 
@@ -64,9 +66,13 @@ Cartiflette : un **unique point d’entrée**, clair et normalisé
 Mentionner l'allègement de la partie géographique pour plein d'autres outils
 -->
 
+## Cartiflette : à quoi ça ressemble ?
+
+![](img/schema_mermaid.svg){height="500" fig-align="center"}
+
 ## Cartiflette : quels impacts ? {.smaller}
 
-- A résultat égal, des codes d'import pouvant passer de 111 lignes de code à ... 4
+- A résultat égal, des codes d'import pouvant passer de **[111]{.blue2}** lignes de code à ... **[4]{.blue2}**
 
 . . .
 
