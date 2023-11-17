@@ -18,7 +18,7 @@
     "href": "slides/index.html#cartiflette-quel-besoin-adressé",
     "title": "Cartiflette",
     "section": "Cartiflette : quel besoin adressé ?",
-    "text": "Cartiflette : quel besoin adressé ?\nDifficultés classiques et chronophages en cartographie :\n\n\nRecherche laborieuse de sources ou de niveaux géographiques spécifiques\n\n\n\n\nEncodages non cohérents des fichiers, par exemple sur le site de l’Insee\n\n\n\n\nImports au cas par cas\n\n\n\n\nCartiflette : un unique point d’entrée, clair et normalisé"
+    "text": "Cartiflette : quel besoin adressé ?\n\nDifficultés classiques et chronophages en cartographie :\n\n\n\nRecherche laborieuse de sources ou de niveaux géographiques spécifiques\n\n\n\n\nEncodages non cohérents des fichiers, par exemple sur le site de l’Insee\n\n\n\n\nImports au cas par cas\n\n\n\n\n\n\n\n\n\nVers une recherche de solution\n\n\nCartiflette : un unique point d’entrée, clair et normalisé"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-avantages",
@@ -26,6 +26,13 @@
     "title": "Cartiflette",
     "section": "Cartiflette : quels avantages ?",
     "text": "Cartiflette : quels avantages ?\n\nPouvoir rapprocher des sources déjà existantes et accroître leur visibilité\n\n\n\nTravailler aisément sur des niveaux géographiques donnés dans une zone d’intérêt spécifique\n\n\n\n\nUne brique qui complémente et s’insère dans un écosystème de packages déjà existants :\n\nExemple du package R COGugaison, pour la manipulation et l’agrégation de données communales\nExemple du package Python Pynsee, pour la récupération de données issues de insee.fr et de l’IGN"
+  },
+  {
+    "objectID": "slides/index.html#cartiflette-à-quoi-ça-ressemble",
+    "href": "slides/index.html#cartiflette-à-quoi-ça-ressemble",
+    "title": "Cartiflette",
+    "section": "Cartiflette : à quoi ça ressemble ?",
+    "text": "Cartiflette : à quoi ça ressemble ?"
   },
   {
     "objectID": "slides/index.html#cartiflette-quels-impacts",
@@ -42,25 +49,25 @@
     "text": "Cartiflette : quels usages aujourd’hui ?\n\nA des fins de formation\n\nExemple du cours Python pour la data science pour les 2A de l’ENSAE\n\n\n\n\nA des fins de data viz sur des projets ponctuels, par exemple sur Observable\n\n\n\n\nBesoin commun de plusieurs administrations\n\nQu’elles soient régionales, nationales, etc."
   },
   {
-    "objectID": "slides/index.html#cartiflette-quid-dune-démonstration",
-    "href": "slides/index.html#cartiflette-quid-dune-démonstration",
+    "objectID": "slides/index.html#cartiflette-quid-dune-démo",
+    "href": "slides/index.html#cartiflette-quid-dune-démo",
     "title": "Cartiflette",
-    "section": "Cartiflette : quid d’une démonstration ?",
-    "text": "Cartiflette : quid d’une démonstration ?\n\n\n\nDeux exemples d’utilisation :\n\nComparaison de code avec & sans Cartiflette sur les bassins de vie\nTuto de dataviz sur Observable"
+    "section": "Cartiflette : quid d’une démo ?",
+    "text": "Cartiflette : quid d’une démo ?\n\n\n\nDeux exemples d’utilisation :\n\nComparaison de code avec & sans Cartiflette sur les bassins de vie\nTuto de dataviz sur Observable"
   },
   {
-    "objectID": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
-    "href": "slides/index.html#cartiflette-quelles-avancées-pendant-la-saison-2",
+    "objectID": "slides/index.html#cartiflette-quelles-avancées",
+    "href": "slides/index.html#cartiflette-quelles-avancées",
     "title": "Cartiflette",
-    "section": "Cartiflette : quelles avancées pendant la saison 2 ?",
-    "text": "Cartiflette : quelles avancées pendant la saison 2 ?\n\n\nUne saison 1 dédiée à la création et la mise à disponibilité de l’outil\n\n\n\nPlusieurs objectifs pendant la saison 2 :\n\nPasser d’un code un peu plus artisanal à un code plus robuste\nEnrichissement des sources\nDavantage de communication, de tutos et démonstrations"
+    "section": "Cartiflette : quelles avancées ?",
+    "text": "Cartiflette : quelles avancées ?\n\n\nUne saison 1 dédiée à la création et la mise à disponibilité de l’outil\n\n\n\nPlusieurs objectifs pendant la saison 2 :\n\nPasser d’un code un peu plus artisanal à un code plus robuste\nEnrichissement des sources\nDavantage de communication, de tutos et démonstrations"
   },
   {
-    "objectID": "slides/index.html#cartiflette-quelle-suite-et-quels-besoins",
-    "href": "slides/index.html#cartiflette-quelle-suite-et-quels-besoins",
+    "objectID": "slides/index.html#cartiflette-quelle-suite",
+    "href": "slides/index.html#cartiflette-quelle-suite",
     "title": "Cartiflette",
-    "section": "Cartiflette : quelle suite et quels besoins ?",
-    "text": "Cartiflette : quelle suite et quels besoins ?\n\n\nObjectif de passage à une API\n\nCompromis à préciser entre précision des contours et débit de téléchargement\n\n\n\n\nEnrichissiment avec de nouvelles sources\n\nEx : Base Nationale sur l’Intercommunalité, bases Insee (Aires d’Attraction des Villes, Zones d’Emploi)\n\n\n\n\n\nBesoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données\n\n\n\n\n\nBesoin de communication et diffusion sur le projet"
+    "section": "Cartiflette : quelle suite ?",
+    "text": "Cartiflette : quelle suite ?\n\n\nObjectif de passage à une API\n\nCompromis à préciser entre précision des contours et débit de téléchargement\nUn projet en best effort\n\n\n\n\nEnrichissiment avec de nouvelles sources\n\nEx : Base Nationale sur l’Intercommunalité, bases Insee (Aires d’Attraction des Villes, Zones d’Emploi)\n\n\n\n\n\nBesoin de contributeurs, notamment côté IGN, par exemple pour la maintenance des liens vers les données\n\n\n\n\n\nBesoin de communication et diffusion sur le projet"
   },
   {
     "objectID": "slides/index.html#cartiflette-fin",
