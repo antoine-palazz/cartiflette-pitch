@@ -1,11 +1,11 @@
 ---
-title: Cartiflette
+title: Présentation du projet `cartiflette`
 subtitle: |
   **[Un projet 10%]{.orange}**
 author:
-  - name : "[[Lino Galiana](https://www.linkedin.com/in/linogaliana/)]{.orange}"
-  - name : "[[Thomas Grandjean](https://www.linkedin.com/in/tgrandje/)]{.orange}"
-  - name : "[[Antoine Palazzolo](https://www.linkedin.com/in/antoine-palazzolo/)]{.orange}"
+  - name : "__[[Lino Galiana](https://www.linkedin.com/in/linogaliana/)]{.orange}__"
+  - name : "__[[Thomas Grandjean](https://www.linkedin.com/in/tgrandje/)]{.orange}__"
+  - name : "__[[Antoine Palazzolo](https://www.linkedin.com/in/antoine-palazzolo/)]{.orange}__"
 # uncomment for French presentations:
 lang: fr-FR
 date: 11/28/2023
@@ -29,13 +29,15 @@ ascii: true
 # Bonjour, présentation du groupe, etc.
 ---
 
-# I. Cartiflette : de quoi s'agit-il ?
+## 1️⃣ `Cartiflette` : de quoi s'agit-il ?
+
 
 ![](img/cartiflette.png){fig-align="center"}
 
+
 {{< include sections/Part_1.qmd >}}
 
-# II. Cartiflette : quel futur ?
+## 2️⃣ `Cartiflette` : quel futur ?
 
 ![](img/cartiflette.png){fig-align="center"}
 
