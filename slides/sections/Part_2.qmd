@@ -1,4 +1,4 @@
-## Cartiflette : quid d'une démo ?
+## `Cartiflette` : quid d'une démo ?
 
 <!--
 Tout ça c'est bien gentil, mais vous n'allez pas me croire sur parole !
@@ -8,38 +8,38 @@ Avant de chercher à vous recruter sur le projet, regardez à quoi ça ressemble
 <br>
 
 - Deux exemples d'utilisation :
-    + [Comparaison de code](https://github.com/InseeFrLab/cartiflette/blob/demoday/misc/demoday.py) avec & sans Cartiflette sur les bassins de vie
+    + [Comparaison de code](https://github.com/InseeFrLab/cartiflette/blob/demoday/misc/demoday.py) avec & sans `Cartiflette` sur les bassins de vie
     + Tuto de dataviz sur [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
 
-## Cartiflette : quelles avancées ?
+## `Cartiflette` : quelles avancées ?
 
 <br>
 
-- Une **saison 1** dédiée à la création et la mise à disponibilité de l'outil
+- Une [**saison 1**]{.orange} dédiée à la création et la mise à disponibilité de l'outil
 
 . . .
 
-- Plusieurs objectifs pendant la **saison 2** :
-    + Passer d'un code un peu plus artisanal à un code plus robuste
-    + Enrichissement des sources
-    + Davantage de communication, de tutos et démonstrations
+- Plusieurs objectifs pendant la [**saison 2**]{.orange} :
+    + Passer d'un code un peu plus artisanal à un code plus robuste ;
+    + Enrichissement des sources ;
+    + Davantage de communication, de tutos et démonstrations.
 
-## Cartiflette : quelle suite ? {.smaller}
+## `Cartiflette` : quelle suite ? {.smaller}
 
 <br>
 
-- Objectif de passage à une **API**
-    + Compromis à préciser entre précision des contours et débit de téléchargement
-    + Un projet en *best effort*
+- Créer une [**API**]{.orange}
+    + Compromis à préciser entre précision des contours et débit de téléchargement ;
+    + Une maintenance *best effort*.
 
 . . .
 
-- Enrichissiment avec de nouvelles sources
+- Enrichissiment avec de [**nouvelles sources**]{.orange} :
     + Ex : [Base Nationale sur l'Intercommunalité](https://www.banatic.interieur.gouv.fr/), bases Insee ([Aires d'Attraction des Villes](https://www.insee.fr/fr/information/4803954), [Zones d'Emploi](https://www.insee.fr/fr/information/4652957))
 
 . . .
 
-- **Besoin de contributeurs**, notamment côté IGN, par exemple pour la maintenance des liens vers les données
+- [**Besoin de contributeurs**]{.orange}, notamment côté IGN, par exemple pour la maintenance des liens vers les données.
 
 <!--
 Préciser qu'on peut nous contacter, nos LinkedIn sont slide 1
@@ -47,9 +47,9 @@ Préciser qu'on peut nous contacter, nos LinkedIn sont slide 1
 
 . . .
 
-- Besoin de communication et diffusion sur le projet
+- **[Besoin de communication]{.orange}** et diffusion sur le projet
 
-## Cartiflette : fin ?
+## `Cartiflette` : fin ?
 
 <br>
 
@@ -59,10 +59,10 @@ Préciser qu'on peut nous contacter, nos LinkedIn sont slide 1
 
 #### Ressources complémentaires
 
-- Notebook [Observable](https://observablehq.com/@linogaliana/cartiflette-demo)
+- Notebook [Observable](https://observablehq.com/@linogaliana/cartiflette-demo) ;
+ 
+- [Documentation](https://linogaliana.github.io/cartiflette-website/) du _package_ ;
 
-- [Documentation](https://linogaliana.github.io/cartiflette-website/) du package
+- [Github {{< fa brands github >}} ](https://github.com/InseeFrLab/cartiflette/) du projet ;
 
-- [Github](https://github.com/InseeFrLab/cartiflette/) du projet
-
-- Back-office : le [fichier yaml](https://github.com/InseeFrLab/cartiflette/blob/main/cartiflette/utils/sources.yaml) des sources incluses
+- Back-office : le [fichier yaml](https://github.com/InseeFrLab/cartiflette/blob/main/cartiflette/utils/sources.yaml) des sources incluses.
