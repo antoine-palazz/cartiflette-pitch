@@ -12,23 +12,19 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 <br>
 
 - Un projet pour ...
-    + ... faciliter l’[**association de sources géographiques**]{.orange}...
+    + ... faciliter l’[**association de sources géographiques**]{.orange} ...
     + ... en proposant des [**récupérations facilitées de coutours**]{.orange} de fonds de cartes officiels.
-
 
 . . .
 
 - Un __[package Python {{< fa brands python >}} ](https://github.com/InseeFrLab/cartiflette)__ (maintenant aussi disponible [en {{< fa brands r-project >}}](https://github.com/linogaliana/cartiflette-r)), _open source_, développé à l'aide du [`SSP Cloud`](https://datalab.sspcloud.fr)
     + Accessible à tous, adapté aux besoins des _data scientists_ ou géomaticiens.
 
-
 . . .
 
-
 - Un objectif clair :
-    + [__Simplifier le travail__]{.orange} des personnes souhaitant réaliser une carte à partir de données géographiques 🗺️;
-    + Chercheurs, enseignants, administrations, _data_ journalistes... 
-
+    + [__Simplifier le travail__]{.orange} des personnes souhaitant réaliser une carte à partir de données géographiques 🗺️
+    + Chercheurs, enseignants, administrations, data journalistes... 
 
 ## `Cartiflette` : quel besoin adressé ?
 
@@ -36,15 +32,15 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 
 . . .
 
-- [**Recherche laborieuse de sources**]{.orange} ou de niveaux géographiques spécifiques ;
+- [**Recherche laborieuse de sources**]{.orange} ou de niveaux géographiques spécifiques
 
 . . .
 
-- [**Encodages non cohérents**]{.orange} des fichiers, par exemple sur le site de l'Insee ;
+- [**Encodages non cohérents**]{.orange} des fichiers, par exemple sur le site de l'Insee
 
 . . .
 
-- [**Imports au cas par cas**]{.orange} ;
+- [**Imports au cas par cas**]{.orange}
 
 . . .
 
@@ -56,7 +52,7 @@ Dire que grâce à Cartiflette, celle-là a été créée en 15min par une parfa
 
 ## `Cartiflette` : quels avantages ?
 
-- Pouvoir [__rapprocher des sources__]{.orange} déjà existantes et accroître leur visibilité ;
+- Pouvoir [__rapprocher des sources__]{.orange} déjà existantes et accroître leur visibilité
 
 . . .
 
@@ -79,7 +75,6 @@ Mentionner l'allègement de la partie géographique pour plein d'autres outils
 ![](img/schema_mermaid.svg){height="500" fig-align="center"}
 
 <!--
-Icônes à rajouter
 En annexe ou à ne pas détailler
 -->
 

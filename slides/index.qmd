@@ -1,7 +1,7 @@
 ---
-title: Présentation du projet `cartiflette`
+title: Présentation du projet `Cartiflette`
 subtitle: |
-  **[Un projet 10%]{.orange}**
+  **[Un projet 10%](https://www.10pourcent.etalab.gouv.fr/)**
 author:
   - name : "__[[Lino Galiana](https://www.linkedin.com/in/linogaliana/)]{.orange}__"
   - name : "__[[Thomas Grandjean](https://www.linkedin.com/in/tgrandje/)]{.orange}__"
